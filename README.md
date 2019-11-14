@@ -1,5 +1,5 @@
 # Vincent-2.0
-It is a Nerual Network that can tranfer a picture to amazing Vicent Van goah's oil painting
+It is a Neural Network that can transfer a picture to amazing Vincent van Gogh's oil paintings. 
 
 Here I try to implement the algorithm and neural network in the paper
 
